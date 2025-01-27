@@ -68,6 +68,9 @@
 # print(next(myit))
 # print(next(myit))
 
+def myFunc():
+  print("Hello")
+
 import matplotlib.pyplot as plt
 import numpy as np
 
