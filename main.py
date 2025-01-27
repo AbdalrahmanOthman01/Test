@@ -72,6 +72,8 @@ def myFunc():
   print("Hello")
 def myFunc2(x):
   print(x)
+def myFunc3(x,y):
+  print(x,y)
 
 import matplotlib.pyplot as plt
 import numpy as np
