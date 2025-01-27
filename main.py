@@ -70,6 +70,8 @@
 
 def myFunc():
   print("Hello")
+def myFunc2(x):
+  print(x)
 
 import matplotlib.pyplot as plt
 import numpy as np
